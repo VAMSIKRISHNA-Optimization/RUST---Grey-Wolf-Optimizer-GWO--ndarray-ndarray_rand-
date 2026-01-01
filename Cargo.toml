@@ -1,0 +1,9 @@
+[package]
+name = "grey_wolf_optimization"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rand = "0.9" # Use the latest version available in 2025
+ndarray = "0.16"
+ndarray-rand = "0.15" # Or latest compatible version
